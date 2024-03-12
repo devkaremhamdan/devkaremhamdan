@@ -2,8 +2,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
 </p> -->
-  [![committers.top badge](https://user-badge.committers.top/egypt/devkaremhamdan.svg)](https://user-badge.committers.top/egypt/devkaremhamdan)
-  <br><br>
+
 **You are the visitor number:**
 
 <p>
